@@ -1,4 +1,4 @@
-# help
+#  pi@inspiron:~$ du -sh yocto37G yoctoshell
 
 ```shell
 pi@inspiron:~$ devtool --help
@@ -80,5 +80,16 @@ st-image-weston       OpenSTLinux weston image with basic Wayland support (if en
 devtool modify virtual/kernel
 
 devtool status
+NOTE: Starting bitbake server...
+NOTE: Started PRServer with DBfile: /home/pi/yocto/build-openstlinuxweston-stm32mp25/cache/prserv.sqlite3, Address: 127.0.0.1:36973, PID: 5113
+linux-stm32mp: /home/pi/yocto/build-openstlinuxweston-stm32mp25/workspace/sources/linux-stm32mp
 ```
+
+
+
+```shell
+devtool status
+```
+
+
 

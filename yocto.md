@@ -1,5 +1,4 @@
 ```shell
-# size
 pi@inspiron:~$ du -sh yocto
-35G	yocto```
+37G	yocto
 ```
